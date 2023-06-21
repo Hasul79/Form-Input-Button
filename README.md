@@ -2,4 +2,4 @@
 
 https://hasul79.github.io/Form-Input-Button/
 
-# autor: Hasmik Minasyan
+# author: Hasmik Minasyan
